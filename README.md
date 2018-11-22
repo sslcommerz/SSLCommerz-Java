@@ -20,11 +20,12 @@ In case of false, user should check status in that first returned response.
  1. https://developer.sslcommerz.com/docs.html :URL to start integrate SSLCOMMERZ as a Developer 
  2. https://developer.sslcommerz.com/registration/: URL to Create Account in Sandbox
 
-##Check List After Making the site Live or Connect with Live SSLCOMMERZ
+## Check List After Making the site Live or Connect with Live SSLCOMMERZ
 Customer need to do a live transaction to check the full process. After the transaction below things need to ensure
 
-Transaction is showing successful in SSLCOMMERZ Panel (https://report.sslcommerz.com)
-Transaction details are same in SSLCOMMERZ Panel (https://report.sslcommerz.com) and Customer site admin Panel.
-Transaction amount is same in Issuer bank end.
-In Transaction Details API Validated by Merchant is YES.
+1. Transaction is showing successful in SSLCOMMERZ Panel (https://report.sslcommerz.com)
+2. Transaction details are same in SSLCOMMERZ Panel (https://report.sslcommerz.com) and Customer site admin Panel.
+3. Transaction amount is same in Issuer bank end.
+4. In Transaction Details API Validated by Merchant is YES.
+
 Note: In the gateway you may not found Banks. After getting live store id, it takes 10 to 15 working days to enable these. You may follow up your KAM(Key Account Manager).
