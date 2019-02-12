@@ -16,6 +16,8 @@ This will validate those query parameters returned by payment success redirect, 
 In case of false, user should check status in that first returned response.
 
 
+Note: In test environment or Sandbox, if you want to change the default store id and store password, you have to set the new store id and store password in page SSLCommerz.java file at Line number:66 also.
+
 ## Help URL
  1. https://developer.sslcommerz.com/docs.html :URL to start integrate SSLCOMMERZ as a Developer 
  2. https://developer.sslcommerz.com/registration/: URL to Create Account in Sandbox
