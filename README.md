@@ -1,5 +1,5 @@
 
-## Process flow to integrate SSLCommerz by using JAVA sample code.
+## SSLCommerz - JAVA
 
 1. First create your Sanbox(Test Environment) store account from below url. After registration you will get two mail. One for Store_id and Store_password. Another one for Report panel access.	
 	   https://developer.sslcommerz.com/registration/
