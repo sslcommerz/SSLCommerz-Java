@@ -67,8 +67,8 @@ public class SSLCommerz {
         this.storeTestMode = storeTestMode;
 
         if (storeTestMode) {
-            this.storeId = "testbox";
-            this.storePass = "qwerty";
+//             this.storeId = "testbox";
+//             this.storePass = "qwerty";
             this.sslczURL = "https://sandbox.sslcommerz.com/";
         }
 
