@@ -34,16 +34,16 @@ public class SSLCommerz {
     private String error;
 
     private String sslczURL = "https://securepay.sslcommerz.com/";
-    private String submitURL = "gwprocess/v3/api.php";
+    private String submitURL = "gwprocess/v4/api.php";
     private String validationURL = "validator/api/validationserverAPI.php";
     private String checkingURL = "validator/api/merchantTransIDvalidationAPI.php";
 
     /****
      *
      * @param Store_ID
-     * Store_ID is that Id of user to connect SSLCOmmerz
+     * Store_ID is that Id of user to connect SSLCommerz
      * @param Store_Pass
-     * Store_Pass is that password of user to connect SSLCOmmerz
+     * Store_Pass is that password of user to connect SSLCommerz
      * @param Store_Test_Mode
      *  Store_Test_Mode is to define whether user is testing this or not.
      * @throws Exception
